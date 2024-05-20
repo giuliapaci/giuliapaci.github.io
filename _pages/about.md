@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
+subtitle:
 
 profile:
   align: right
@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a postdoc in the Mao lab at the UCL Laboratory for Molecular Cell Biology. 
+I am a postdoc in the Mao lab at the UCL Laboratory for Molecular Cell Biology.
 
 I received my PhD in Molecular Biology from EMBL Heidelberg (Germany)
 
