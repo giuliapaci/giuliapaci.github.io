@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: gridlay
 permalink: /teaching/
 title: teaching
 description: Materials for courses you taught. Replace this text with your description.
@@ -7,6 +7,11 @@ nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Courses:
 
-Organize your courses by years, topics, or universities, however you like!
++ (2024 - present) Instructor: UCL Computational Cell Biophysics course (lecture on napari image analysis).
++ (2021 - present) Instructor: bioimage analysis tutorials for Optical Biology PhD students.
++ (2021 - present) Instructor: UCL Interdisciplinary Cell Biology course (lecture on super-resolution imaging).
++ (2021 - present) Instructor: UCL Research Techniques in Cell Biology course (lecture on super-resolution
+imaging).
++ (2020) Instructor: seminar for UCL’s Biosciences students on critical reading of scientific papers.
