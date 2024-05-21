@@ -2,7 +2,7 @@
 layout: page
 title: outreach
 permalink: /outreach/
-description: A growing collection of your cool projects.
+description:
 nav: true
 nav_order: 4
 display_categories:
