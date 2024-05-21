@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Secondary Schools Talks & Lab Tours
-description:
+title: Secondary Schools
+description: Talks & Lab Tours
 img: assets/img/NPC.jpg
 importance: 2
 category:
