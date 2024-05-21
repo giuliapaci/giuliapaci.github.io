@@ -4,7 +4,7 @@ title: outreach
 permalink: /outreach/
 description: A growing collection of your cool projects.
 nav: true
-nav_order:
+nav_order: 4
 display_categories:
 horizontal: false
 ---
