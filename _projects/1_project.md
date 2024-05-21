@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Microscope in Action
-description: with background image
-img: assets/img/12.jpg
+title: Microscope in Action (MiA)
+description:
+img: assets/img/MIA.png
 importance: 1
 category:
 related_publications: true
