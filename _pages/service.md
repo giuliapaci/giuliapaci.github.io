@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-## Community service & event organization:
+## community service & event organization:
 
 +  I am co-founder of the UCL bioimage interest group since Sept 2020, now <a href="https://www.ucl.ac.uk/lmcb/ucl-biig"> BIIG </a>. The interest group aims to connect users and experts from different backgrounds who are interested in biological and biomedical image acquisition and analysis. We hold monthly hybrid meetings at the LMCB seminar room and on Zoom every second Friday of the month with talks at 12-1 pm, followed by refreshments. We host two speakers for short (15 min) and informal presentations each time, allowing plenty of time for discussion. We welcome work-in-progress presentations and highly encourage the participation of early-career researchers.
 

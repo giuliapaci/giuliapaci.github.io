@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-## Courses:
+## courses:
 
 PhDs:
 + (2021 - present) Instructor: bioimage analysis tutorials for PhD students from the Optical Biology program.
@@ -21,7 +21,7 @@ Undergraduate:
 + (2021 - present) Instructor: UCL Research Techniques in Cell Biology course (lecture on super-resolution imaging techniques).
 + (2020) Instructor: seminar for UCL’s Biosciences students on critical reading of scientific papers.
 
-## Student supervision: 
+## student supervision: 
 
 + 2024 Supervisor of UCL IPLS (Institute for the Physics of Living System) Undergraduate Summer Research placement 10 week summer student. I applied
 for my own funding and recruited a student for this position.
