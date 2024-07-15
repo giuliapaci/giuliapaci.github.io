@@ -2,7 +2,7 @@
 layout: page
 title: outreach
 permalink: /outreach/
-description:
+description: Selection of outreach projects I've been involved in during the years, click on a project to know more. 
 nav: true
 nav_order: 6
 display_categories:
